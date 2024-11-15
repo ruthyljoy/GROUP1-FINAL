@@ -1,0 +1,82 @@
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\bin\Debug\M1PartialForms.exe.config
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\bin\Debug\M1PartialForms.exe
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\bin\Debug\M1PartialForms.pdb
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.AssemblyReference.cache
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.Form1.resources
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.Properties.Resources.resources
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.GenerateResource.cache
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.CoreCompileInputs.cache
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.exe
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.pdb
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\raebm\source\repos\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.exe.config
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\M1PartialForms.exe.config
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\M1PartialForms.exe
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\M1PartialForms.pdb
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Buffers.dll
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Memory.dll
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Net.Http.Json.dll
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Text.Json.dll
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.ValueTuple.dll
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Buffers.xml
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Memory.xml
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Net.Http.Json.xml
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Text.Json.xml
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.ValueTuple.xml
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.AssemblyReference.cache
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.exe.config
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.Form1.resources
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.Properties.Resources.resources
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.GenerateResource.cache
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.CoreCompileInputs.cache
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1Partia.EF9E5E5D.Up2Date
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.exe
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.pdb
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.Form2.resources
+C:\Users\raebm\Downloads\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.Form3.resources
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\M1PartialForms.exe.config
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\M1PartialForms.exe
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\M1PartialForms.pdb
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Buffers.dll
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Memory.dll
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Net.Http.Json.dll
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Text.Json.dll
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.ValueTuple.dll
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Buffers.xml
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Memory.xml
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Net.Http.Json.xml
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Text.Json.xml
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\bin\Debug\System.ValueTuple.xml
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.AssemblyReference.cache
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.exe.config
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.Form1.resources
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.Form2.resources
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.Form3.resources
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.Properties.Resources.resources
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.GenerateResource.cache
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.csproj.CoreCompileInputs.cache
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1Partia.EF9E5E5D.Up2Date
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.exe
+C:\Users\Joy Del Pilar\Downloads\M1PartialForms1 (2)\M1PartialForms1\M1PartialForms\M1PartialForms\obj\Debug\M1PartialForms.pdb
